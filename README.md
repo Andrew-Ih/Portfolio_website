@@ -10,6 +10,7 @@ Created using:
 
 
 Functionality:
+
     - Fully responsive web apllication, with links to:
         1. Download my resume
         2. Github
