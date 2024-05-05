@@ -280,12 +280,12 @@ section {
 
 .about-containers, .about-details-container {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .about-pic {
     border-radius: 2rem;
 }
-
 
 .arrow {
     position: absolute;
@@ -345,9 +345,11 @@ section {
 article {
     display: flex;
     width: 10rem;
-    justify-content: space-around;
+    justify-content: flex-start;
+    align-items: center;
     gap: 0.5rem;
 }
+
 
 article .icon {
     cursor: default;
