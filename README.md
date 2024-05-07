@@ -17,7 +17,7 @@ Functionality:
         3. LinkedIn
         4. Email contact
 
-    - Designed to fit any screen size, from a full size monitor to your mobile phone
+    - Designed to fit any screen size, from a full size monitor to your phone
 
 
 view on web: https://andrew-ih.github.io/Portfolio_website/
